@@ -1,7 +1,7 @@
 # Student Performance Data Analysis
 
 ## 📌 Overview
-This project was developed as part of my internship at **CodexIntern**.  
+This project was developed as part of my internship at **CODEXINTERN **.  
 It demonstrates how to perform **basic data analysis** using the **Pandas** library and visualize insights with **Matplotlib** and **Seaborn**.  
 
 The dataset contains student details, including their major and scores in **Math, Science, and History**.  
@@ -48,3 +48,15 @@ We calculate average scores, explore relationships between subjects, and visuali
 3. Run the script:
    ```bash
    python analysis.py
+
+📊 Example Outputs
+
+1.Average Score by Subject (Bar Chart)
+
+2.Math vs. Science Scores (Scatter Plot)
+
+3.Correlation Matrix (Heatmap)
+
+---
+
+👨‍💻 Developed during my internship at CODEXINTERN 
