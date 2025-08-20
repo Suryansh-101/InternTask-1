@@ -39,13 +39,12 @@ We calculate average scores, explore relationships between subjects, and visuali
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-performance-analysis.git
-   cd student-performance-analysis
+   https://github.com/Suryansh-101/InternTask-1/blob/main/Task-1.py
 
 2. Install Dependencies:
-   '''bash
+   ```bash
    pip install -r requirements.txt
 
 3. Run the script:
-   '''bash
+   ```bash
    python analysis.py
